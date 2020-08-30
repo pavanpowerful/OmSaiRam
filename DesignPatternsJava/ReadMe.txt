@@ -1,0 +1,1 @@
+This folder covers the java assignments given in Design Patterns Udemy course
